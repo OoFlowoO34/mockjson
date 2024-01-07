@@ -29,5 +29,4 @@
     { "id": 1, "pseudo": "user1", "email": "user1@email.com" },
     { "id": 2, "pseudo": "user2", "email": "user2@email.com" }
   ],
-
 }
