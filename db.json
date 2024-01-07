@@ -1,44 +1,45 @@
 {
   "botanists": [
     {
-      id: 1,
-      pseudo: 'Botaniste1',
-      email: 'Botaniste1@email.com',
-      photo: 'https://picsum.photos/200/300',
-      status: true,
-      comments: 'path1',
+      "id": 1,
+      "pseudo": "Botaniste1",
+      "email": "Botaniste1@email.com",
+      "photo": "https://picsum.photos/200/300",
+      "status": true,
+      "comments": "path1"
     },
     {
-      id: 2,
-      pseudo: 'Botaniste2',
-      email: 'Botaniste1@email.com',
-      photo: 'https://picsum.photos/200/300',
-      status: false,
-      comments: 'path',
+      "id": 2,
+      "pseudo": "Botaniste2",
+      "email": "Botaniste2@email.com",
+      "photo": "https://picsum.photos/200/300",
+      "status": false,
+      "comments": "path"
     },
     {
-      id: 3,
-      pseudo: 'Botaniste3',
-      email: 'Botaniste1@email.com',
-      photo: 'https://picsum.photos/200/300',
-      status: null,
-      comments: 'path',
+      "id": 3,
+      "pseudo": "Botaniste3",
+      "email": "Botaniste3@email.com",
+      "photo": "https://picsum.photos/200/300",
+      "status": null,
+      "comments": "path"
     },
     {
-      id: 4,
-      pseudo: 'Botaniste4',
-      email: 'Botaniste1@email.com',
-      photo: 'https://picsum.photos/200/300',
-      status: false,
-      comments: 'path',
+      "id": 4,
+      "pseudo": "Botaniste4",
+      "email": "Botaniste4@email.com",
+      "photo": "https://picsum.photos/200/300",
+      "status": false,
+      "comments": "path"
     },
     {
-      id: 5,
-      pseudo: 'Botaniste4',
-      email: 'Botaniste1@email.com',
-      photo: 'https://picsum.photos/200/300',
-      status: null,
-      comments: 'path',
-    },
-  ],
+      "id": 5,
+      "pseudo": "Botaniste5",
+      "email": "Botaniste5@email.com",
+      "photo": "https://picsum.photos/200/300",
+      "status": null,
+      "comments": "path"
+    }
+  ]
 }
+
