@@ -13,7 +13,7 @@
       "pseudo": "Botaniste2",
       "email": "Botaniste2@email.com",
       "photo": "",
-      "status": true,
+      "status": false,
       "comments": "path2"
     },
     {
@@ -21,7 +21,7 @@
       "pseudo": "Botaniste3",
       "email": "Botaniste3@email.com",
       "photo": "",
-      "status": true,
+      "status": "",
       "comments": "path3"
     }
   ],
