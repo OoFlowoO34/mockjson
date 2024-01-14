@@ -21,7 +21,7 @@
       "pseudo": "Botaniste3",
       "email": "Botaniste3@email.com",
       "photo": "",
-      "status": "",
+      "status": null,
       "comments": "path3"
     }
   ],
