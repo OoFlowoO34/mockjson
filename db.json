@@ -31,7 +31,7 @@
       "photo": "",
       "status": true,
       "comments": "path4"
-    },
+    }
   ],
   "users": [
     { "id": 1, "pseudo": "user1", "email": "user1@email.com" },
