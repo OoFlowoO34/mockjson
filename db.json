@@ -4,17 +4,15 @@
       "id": 1,
       "pseudo": "Botaniste1",
       "email": "Botaniste1@email.com",
-      "photo": "https://i.pravatar.cc/150?img=1",
+      "photo": "https://i.pravatar.cc/150?img=0",
       "status": true,
-      "comments": "path1"
     },
     {
       "id": 2,
       "pseudo": "Botaniste2",
       "email": "Botaniste2@email.com",
-      "photo": "https://i.pravatar.cc/150?img=2",
+      "photo": "https://i.pravatar.cc/150?img=1",
       "status": false,
-      "comments": "path2"
     },
     {
       "id": 3,
@@ -22,7 +20,6 @@
       "email": "Botaniste3@email.com",
       "photo": "",
       "status": null,
-      "comments": "path3"
     },
     {
       "id": 4,
@@ -30,11 +27,13 @@
       "email": "Botaniste4@email.com",
       "photo": "",
       "status": true,
-      "comments": "path4"
     }
   ],
   "users": [
-    { "id": 1, "pseudo": "user1", "email": "user1@email.com" },
-    { "id": 2, "pseudo": "user2", "email": "user2@email.com" }
+    { "id": 1, "pseudo": "user1", "photo": "", "email": "user1@email.com" },
+    { "id": 2, "pseudo": "user2", "photo": "https://i.pravatar.cc/150?img=20", "email": "user2@email.com" },
+    { "id": 3, "pseudo": "user3", "photo": "https://i.pravatar.cc/150?img=21", "email": "user3@email.com" },
+    { "id": 4, "pseudo": "user4", "photo": "", "email": "user4@email.com" },
+    { "id": 5, "pseudo": "user5", "photo": "https://i.pravatar.cc/150?img=22", "email": "user5@email.com" }
   ]
 }
