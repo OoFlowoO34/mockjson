@@ -5,28 +5,28 @@
       "pseudo": "Botaniste1",
       "email": "Botaniste1@email.com",
       "photo": "https://i.pravatar.cc/150?img=0",
-      "status": true,
+      "status": true
     },
     {
       "id": 2,
       "pseudo": "Botaniste2",
       "email": "Botaniste2@email.com",
       "photo": "https://i.pravatar.cc/150?img=1",
-      "status": false,
+      "status": false
     },
     {
       "id": 3,
       "pseudo": "Botaniste3",
       "email": "Botaniste3@email.com",
       "photo": "",
-      "status": null,
+      "status": null
     },
     {
       "id": 4,
       "pseudo": "Botaniste4",
       "email": "Botaniste4@email.com",
       "photo": "",
-      "status": true,
+      "status": true
     }
   ],
   "users": [
