@@ -29,10 +29,7 @@
     {"id": 27,"pseudo": "Leo","email": "Leo_Botaniste27@email.com","photo": "","status": true},
     {"id": 28,"pseudo": "Jules","email": "Jules_Botaniste28@email.com","photo": "https://i.pravatar.cc/150?img=42","status": true},
     {"id": 29,"pseudo": "Elena","email": "Elena_Botaniste29@email.com","photo": "https://i.pravatar.cc/150?img=43","status": false},
-    {"id": 30,"pseudo": "Louis","email": "Louis_Botaniste30@email.com","photo": "","status": true},
-    {"id": 31,"pseudo": "Alexandre","email": "Alexandre_Botaniste31@email.com","photo": "https://i.pravatar.cc/150?img=44","status": true},
-    {"id": 32,"pseudo": "Alicia","email": "Alicia_Botaniste32@email.com","photo": "https://i.pravatar.cc/150?img=45","status": false},
-    {"id": 33,"pseudo": "Antoine","email": "Antoine_Botaniste33@email.com","photo": "https://i.pravatar.cc/150?img=46","status": true}
+    {"id": 30,"pseudo": "Louis","email": "Louis_Botaniste30@email.com","photo": "","status": true}
   ],
   "users": [
     {"id": 1,"pseudo": "Leo","photo": "","email": "Leo_User1@email.com"},
