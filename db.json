@@ -62,5 +62,8 @@
     {"id": 28,"pseudo": "Jules","photo": "https://i.pravatar.cc/150?img=42","email": "Jules_User28@email.com"},
     {"id": 29,"pseudo": "Elena","photo": "https://i.pravatar.cc/150?img=43","email": "Elena_User29@email.com"},
     {"id": 30,"pseudo": "Louis","photo": "","email": "Louis_User30@email.com"}
+  ],
+  "login": [
+    {"token": "myjwttoken"}
   ]
 }
