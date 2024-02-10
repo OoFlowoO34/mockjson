@@ -32,7 +32,7 @@
     {"id": 30,"pseudo": "Louis","email": "Louis_Botaniste30@email.com","photo": "","status": true}
   ],
   "users": [
-    {"id": 1,"pseudo": "Leo","photo": "","email": "Leo_User1@email.com"},
+    {"id": 1,"pseudo": "Theo","photo": "","email": "Theo_User1@email.com"},
     {"id": 2,"pseudo": "Lena","photo": "https://i.pravatar.cc/150?img=24","email": "Lena_User2@email.com"},
     {"id": 3,"pseudo": "Ethan","photo": "https://i.pravatar.cc/150?img=25","email": "Ethan_User3@email.com"},
     {"id": 4,"pseudo": "Chloe","photo": "","email": "Chloe_User4@email.com"},
