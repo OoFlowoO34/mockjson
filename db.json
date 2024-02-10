@@ -1,6 +1,6 @@
 {
   "botanists": [
-    {"id": 1,"pseudo": "Sophie","email": "Sophie_Botaniste1@email.com","photo": "https://i.pravatar.cc/150?img=0","status": true},
+    {"id": 1,"pseudo": "Jules","email": "Jules_Botaniste1@email.com","photo": "https://i.pravatar.cc/150?img=0","status": true},
     {"id": 2,"pseudo": "Lucas","email": "Lucas_Botaniste2@email.com","photo": "https://i.pravatar.cc/150?img=1","status": false},
     {"id": 3,"pseudo": "Emma","email": "Emma_Botaniste3@email.com","photo": "https://i.pravatar.cc/150?img=2","status": true},
     {"id": 4,"pseudo": "Louis","email": "Louis_Botaniste4@email.com","photo": "https://i.pravatar.cc/150?img=3","status": true},
@@ -27,7 +27,7 @@
     {"id": 25,"pseudo": "Hugo","email": "Hugo_Botaniste25@email.com","photo": "https://i.pravatar.cc/150?img=40","status": false},
     {"id": 26,"pseudo": "Lina","email": "Lina_Botaniste26@email.com","photo": "https://i.pravatar.cc/150?img=41","status": true},
     {"id": 27,"pseudo": "Leo","email": "Leo_Botaniste27@email.com","photo": "","status": true},
-    {"id": 28,"pseudo": "Jules","email": "Jules_Botaniste28@email.com","photo": "https://i.pravatar.cc/150?img=42","status": true},
+    {"id": 28,"pseudo": "Sophie","email": "Sophie_Botaniste28@email.com","photo": "https://i.pravatar.cc/150?img=42","status": true},
     {"id": 29,"pseudo": "Elena","email": "Elena_Botaniste29@email.com","photo": "https://i.pravatar.cc/150?img=43","status": false},
     {"id": 30,"pseudo": "Louis","email": "Louis_Botaniste30@email.com","photo": "","status": true}
   ],
