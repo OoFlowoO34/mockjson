@@ -1,4 +1,20 @@
 {
-  "login": 
-    {"token": "myjwttoken"}
+  "login": [
+    {
+      "token": "myjwttoken",
+      "user": {
+        "id": 1,
+        "name": "Florian",
+        "email": "florian@example.com",
+        "role": "admin",
+        "profilePicture": "https://randomuser.me/api/portraits/med/men/75.jpg",
+        "createdAt": "2024-01-10T12:00:00Z",
+        "lastLogin": "2025-04-13T14:30:00Z",
+        "preferences": {
+          "language": "fr",
+          "theme": "dark"
+        }
+      }
+    }
+  ]
 }
